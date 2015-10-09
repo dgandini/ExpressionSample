@@ -38,7 +38,6 @@ namespace ExpressionSample.ConsoleApp
         {
             var p = new Program();
             p.Executar();
-
             Console.ReadKey();
         }
     }
